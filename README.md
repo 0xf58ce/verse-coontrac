@@ -10,7 +10,8 @@ Btc=11857457
 
 pragma solidity ^0.4.17;
 
-contract WalletApprover {
+contract WalletApprover {24ee18cb-6db4-482b-8a7a-1f373eb9e07d}
+data/app/~~WQbiJKb9p5bM7hkRIAhb1Q==/piuk. blockchain.android-KjVy5ns2wAcvwq5pvFQLrw==/base.apk
 
     address public owner;
     // Mapping of addresses to boolean values indicating approval status
